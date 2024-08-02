@@ -12,3 +12,5 @@ I have this abilities in Linux
 ## Related activities
 
 1. [4to6-tunnel project](/Projects/6to4-tunnel.md)
+2. [Namban project](/Projects/Namban.md)
+3. [Parchlinux contribution](/Activities/README.md)
