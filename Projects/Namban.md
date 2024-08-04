@@ -1,6 +1,9 @@
 # Namban
 
-Namban is a GUI DNS setting editor, this tool edits `/etc/resolv.conf` (if needed) to set system DNS to `systemd-resolved` (127.0.0.53) and then configs `systemd-resolved` based of user inputs
+Namban is a GUI DNS setting editor, based on python and gtk4
+
+### What it does technically
+this tool edits `/etc/resolv.conf` (if needed) to set system DNS to `systemd-resolved` (127.0.0.53) and then configs `systemd-resolved` based of user inputs
 
 ![namban](/pics/namban.png)
 
