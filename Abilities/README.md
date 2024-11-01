@@ -20,7 +20,7 @@
 
 1. [ASP.NET](./ASPNET.md) (Intermediate)
 2. Django (Intermediate)
-3. React (Intermediate)
+3. [React](./React.md) (Intermediate)
 4. Telegram-bot (Beginner)
 5. NextJS (Beginner)
 6. NumPy (Intermediate)
