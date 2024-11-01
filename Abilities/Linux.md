@@ -7,6 +7,7 @@ I have this abilities in Linux
 3. Config ftp, tfpt, sftp
 4. Config services in systemd
 5. Config network settings like routes, addresses, gateways, tunnels, dns and etc
+6. Config iptables
 
 
 ## Related activities
