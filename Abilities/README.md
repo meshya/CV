@@ -31,8 +31,9 @@
 ## Service Management
 
 1. [Linux](./Linux.md) (Intermediate)
-2. Docker (Beginner)
-3. Nginx (Beginner)
-4. Github Actions (Beginner)
-5. Network (Beginner)
-6. Seesaw (Beginner)
+2. Docker (Intermediate)
+3. Nginx (Intermediate)
+4. Kubernetes (Beginner)
+5. Github Actions (Beginner)
+6. Network (Beginner)
+7. Seesaw (Beginner)
