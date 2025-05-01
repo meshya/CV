@@ -2,7 +2,7 @@
 
 - [Abilities](#abilities)
   - [Programming Languages](#programming-languages)
-  - [Libraries and FrameworksIntermediate](#libraries-and-frameworksintermediate)
+  - [Libraries and Frameworks](#libraries-and-frameworks)
   - [Service Management](#service-management)
 
 ## Programming Languages
@@ -10,23 +10,33 @@
 1. [CSharp](./CSharp.md) (Intermediate)
 2. [Rust](./Rust.md) (Beginner)
 3. [Python](./Python.md) (Advance)
-4. C++
+4. TypeScript (Intermediate)
 5. JavaScript
-6. TypeScript
+6. C++
 
 
 
-## Libraries and FrameworksIntermediate
+
+## Libraries and Frameworks
 
 1. [ASP.NET](./ASPNET.md) (Intermediate)
-2. Django (Intermediate)
-3. [React](./React.md) (Intermediate)
-4. Telegram-bot (Beginner)
-5. NextJS (Beginner)
-6. NumPy (Intermediate)
-7. NetworkX (Beginner)
-8. Pillow (Intermediate)
-9. [OpenGL](./OpenGL.md) (Beginner)
+2. Django (Advance)
+3. FastAPI (Intermediate)
+4. Celery (Intermediate)
+5. MongoDB (Intermediate)
+6. PostgreSQL (Intermediate)
+7. SQLAlchemy - orm (Intermediate)
+8. Redis (Intermediate)
+9. RediSearch (Intermediate)
+10. redis-om - orm for redis (Intermediate)
+11. Beanie - odm (Intermediate)
+12. [React](./React.md) (Intermediate)
+13. aiogram (Advanced)
+14. NextJS (Beginner)
+15. NumPy (Intermediate)
+16. NetworkX (Beginner)
+17. Pillow (Intermediate)
+18. [OpenGL](./OpenGL.md) (Beginner)
 
 ## Service Management
 
